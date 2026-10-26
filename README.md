@@ -1,2 +1,3 @@
 # esm_famil_game
-This game is an Iranian game.
+**Scattergories** is a fast-paced word game that challenges players to think creatively under time pressure. In each round, players are given a random letter and a list of categories, then must come up with unique words or phrases that fit each category and begin with the chosen letter. Points are awarded for valid answers, with extra emphasis on originality, as duplicate responses typically do not score. This digital implementation recreates the excitement of the classic party game with an intuitive interface, automated gameplay, and an engaging experience for friends, family, or anyone looking to test their creativity and vocabulary.
+
